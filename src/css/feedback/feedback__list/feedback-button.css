@@ -1,0 +1,24 @@
+.feedback__button {
+  background: var(--medium-blue);
+  border: none;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  color: var(--light-grey);
+  cursor: pointer;
+  font-family: var(--overpass);
+  font-size: var(--main-font-size);
+  font-weight: var(--light-weight);
+  height: 2.85rem;
+  transition: .15s ease-in-out;
+  width: 2.85rem;
+}
+
+.feedback__button:hover {
+  background-color: var(--orange);
+  color: var(--white);
+}
+
+.active {
+  background-color: var(--medium-grey);
+  color: var(--white);
+}

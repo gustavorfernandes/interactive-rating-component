@@ -1,0 +1,18 @@
+.thank-you__subtitle {
+  align-items: center;
+  background-color: var(--medium-blue);
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  display: flex;
+  height: 2rem;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+  width: 12rem;
+}
+
+.thank-you__subtitle__text {
+  color: var(--orange);
+  font-size: var(--main-font-size);
+  font-weight: var(--light-weight);
+  text-align: center;  
+}

@@ -1,0 +1,9 @@
+.thank-you__text {
+  color: var(--light-grey);
+  font-size: .825rem;
+  font-weight: var(--light-weight);
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+  padding: 0 1rem;
+  text-align: center;
+}

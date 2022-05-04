@@ -1,0 +1,12 @@
+@import url(./thank-you-image.css);
+@import url(./thank-you-subtitle.css);
+@import url(./thank-you-title.css);
+@import url(./thank-you-text.css);
+
+.thank-you {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 380.02px;
+  padding: 1.5rem .25rem; 
+}

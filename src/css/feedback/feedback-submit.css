@@ -1,0 +1,22 @@
+.feedback__submit {
+  background: var(--orange);
+  border: none;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--overpass);
+  font-size: .9rem;
+  font-weight: var(--light-weight);
+  height: 3rem;  
+  letter-spacing: 0.125rem;
+  margin-bottom: .5rem;
+  text-transform: uppercase;
+  transition: .15s ease-in-out;
+  width: 100%;  
+}
+
+.feedback__submit:hover {
+  background-color: var(--white);
+  color: var(--orange);
+}

@@ -1,0 +1,8 @@
+.thank-you__image {
+  background-image: url(../../images/illustration-thank-you.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 8rem;
+  margin: 1rem 0;
+  width: 9rem;
+}

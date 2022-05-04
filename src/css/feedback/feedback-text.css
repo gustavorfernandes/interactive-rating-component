@@ -1,0 +1,7 @@
+.feedback__text {
+  color: var(--light-grey);
+  font-size: var(--main-font-size);
+  font-weight: var(--light-weight);
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}

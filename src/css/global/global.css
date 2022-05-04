@@ -1,0 +1,19 @@
+@import url(./reset.css);
+@import url(./variables.css);
+
+body {
+  align-items: center;
+  background-color: var(--very-dark-blue);
+  display: flex;
+  font-family: var(--overpass);
+  height: 100vh;
+  justify-content: center;
+}
+
+main {
+  background-color: var(--dark-blue);
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;  
+  margin: auto;
+  width: 90%;  
+}

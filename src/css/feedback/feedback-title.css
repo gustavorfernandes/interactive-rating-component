@@ -1,0 +1,5 @@
+.feedback__title {
+  color: var(--white);
+  font-weight: var(--bold-weight);
+  margin-bottom: 1rem;
+}

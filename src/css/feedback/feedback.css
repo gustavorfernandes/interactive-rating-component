@@ -1,0 +1,12 @@
+@import url(./feedback-icon.css);
+@import url(./feedback-title.css);
+@import url(./feedback-text.css);
+@import url(./feedback__list/feedback-list.css);
+@import url(./feedback__list/feedback-button.css);
+@import url(./feedback-submit.css);
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+}
