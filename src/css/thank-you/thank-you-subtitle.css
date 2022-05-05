@@ -10,9 +10,9 @@
   width: 12rem;
 }
 
-.thank-you__subtitle__text {
+.thank-you__subtitle {
   color: var(--orange);
   font-size: var(--main-font-size);
   font-weight: var(--light-weight);
-  text-align: center;  
+  text-align: center;
 }

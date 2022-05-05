@@ -1,0 +1,40 @@
+@media screen and (min-width: 375px) {
+  .content {
+    max-width: 337.5px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .content {
+    height: 27.5rem;
+    max-width: 27.5rem;
+    padding: 1rem;
+  }
+
+  .feedback__title {
+    font-size: 2rem;
+    margin-top: 1rem;
+  }  
+
+  .feedback__text {
+    font-size: 1rem;
+  }
+  
+  .thank-you {
+    padding-bottom: 0;
+  }
+
+  .thank-you__image {
+    margin-bottom: 0;
+  }
+
+  .thank-you__title {
+    font-size: 1.75rem;
+    margin-top: 1.25rem;
+  }
+
+  .thank-you__text {
+    font-size: 1.005rem;
+    margin-bottom: 0;
+  }
+}

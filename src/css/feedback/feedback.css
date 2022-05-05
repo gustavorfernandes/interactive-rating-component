@@ -6,7 +6,11 @@
 @import url(./feedback-submit.css);
 
 .feedback {
-  display: flex;
+  display: none;
   flex-direction: column;
   padding: 1.5rem;
+}
+
+#open {
+  display: flex;
 }
